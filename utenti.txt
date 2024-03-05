@@ -1,0 +1,5 @@
+master master  root
+admin admin  admin
+guest guest  user
+pilota pilota  pilot
+andrea 123  admin
