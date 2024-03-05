@@ -32,3 +32,11 @@ the dashboard is a page from which you can choose the mode you prefer to use. th
 <br>
 *except the master user who can use them all
 ### 3.1 Admin Dashboard
+The Admin Dashboard allows admin users to access 6 functions. at the top there is the wifi icon (only works on mac os) and today's date.
+the functions are:
+- Flight Manager
+- Passenger Manager
+- Radio
+- Radar
+- Aircraft Manager
+- Acars
