@@ -40,3 +40,23 @@ the functions are:
 - Radar
 - Aircraft Manager
 - Acars
+
+### 3.2 User Dashboard
+The User Dashboard allows passenger users to access 4 functions. at the top there is the wifi icon (only works on mac os) and today's date.
+the functions are:
+- Ticket Boarding
+- Ticket Cancellation
+- Menu
+- Book (Prenota)
+
+### 3.3 Pilot Dashboard
+The Pilot Dashboard allows pilot users to access 4 functions. at the top there is the wifi icon (only works on mac os) and today's date.
+the functions are:
+- Schedule
+- Hollidays (ferie)
+- Stamp (timbra)
+- Fly
+
+## 4. Admin functions
+### 4.1 Flight Manager
+  
