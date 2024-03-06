@@ -2,6 +2,7 @@
 
 ## 1. Project Overview
 This project is a java application made with netbeans inside the IIS Galileo Galilei Crema. its purpose is to create an app that allows you to manage an airline (as an example I used ItaAirways, but this project is not associated in any way with the real company).
+To import the project open netbeans, select file -> import project -> import from zip -> select de zip downloaded from the RELEASE -> press import.
 
 ## 2. Login and Registration
 ### 2.1 Login
