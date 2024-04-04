@@ -1,4 +1,4 @@
-# AirlineManager Java
+# AirlineManager
 
 ## 1. Project Overview
 This project is a java application made with netbeans inside the IIS Galileo Galilei Crema. its purpose is to create an app that allows you to manage an airline (as an example I used ItaAirways, but this project is not associated in any way with the real company).
